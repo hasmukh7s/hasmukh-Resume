@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hasmukh-Resume/static/css/main.5ce498b7.css",
-    "main.js": "/hasmukh-Resume/static/js/main.b1ceb614.js",
+    "main.js": "/hasmukh-Resume/static/js/main.2ba0c3d0.js",
     "static/media/banner-img.jpg": "/hasmukh-Resume/static/media/banner-img.a74284f5c436a3ffbf8d.jpg",
     "static/media/has-website-react.png": "/hasmukh-Resume/static/media/has-website-react.a0d66cf8ef56cc7806dc.png",
     "static/media/call-video.mp4": "/hasmukh-Resume/static/media/call-video.1cfc00831c2b51594883.mp4",
@@ -17,7 +17,7 @@
     "static/media/browserstore.png": "/hasmukh-Resume/static/media/browserstore.060b880fe2251c62c094.png",
     "static/media/project-mnmt.png": "/hasmukh-Resume/static/media/project-mnmt.5167ea3b19bce49fe509.png",
     "static/media/process.png": "/hasmukh-Resume/static/media/process.dd1ae1085daf786689ac.png",
-    "static/media/Hasmukh_Resume.pdf": "/hasmukh-Resume/static/media/Hasmukh_Resume.6ea1a56237a711cd497a.pdf",
+    "static/media/Hasmukh_Resume.pdf": "/hasmukh-Resume/static/media/Hasmukh_Resume.e8359994cb8f4e97c1ab.pdf",
     "static/media/workflow.png": "/hasmukh-Resume/static/media/workflow.5d02d88536dbd6ccf6d3.png",
     "static/media/logo.png": "/hasmukh-Resume/static/media/logo.9a6ddb5b6f0e7442ad80.png",
     "static/media/employee.png": "/hasmukh-Resume/static/media/employee.12db707c41a082e36697.png",
@@ -49,10 +49,10 @@
     "static/media/git.svg": "/hasmukh-Resume/static/media/git.fd4ff25d1bab9d4909db4a2f70c8ffa2.svg",
     "static/media/phone.svg": "/hasmukh-Resume/static/media/phone.04ae4af56da49c6ad94b5c7e5640bd3a.svg",
     "main.5ce498b7.css.map": "/hasmukh-Resume/static/css/main.5ce498b7.css.map",
-    "main.b1ceb614.js.map": "/hasmukh-Resume/static/js/main.b1ceb614.js.map"
+    "main.2ba0c3d0.js.map": "/hasmukh-Resume/static/js/main.2ba0c3d0.js.map"
   },
   "entrypoints": [
     "static/css/main.5ce498b7.css",
-    "static/js/main.b1ceb614.js"
+    "static/js/main.2ba0c3d0.js"
   ]
 }
