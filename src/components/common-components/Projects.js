@@ -30,7 +30,6 @@ function Projects() {
                             <div className="project-details">
                                 <h3 className="project-title">Life Store</h3>
                                 <ul>
-                                    <li>React Js</li>
                                     <li>HTML</li>
                                     <li>CSS</li>
                                     <li>JavaScript</li>
