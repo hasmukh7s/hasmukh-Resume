@@ -39,6 +39,23 @@ function Projects() {
 
                         </div>
 
+                        <div className="item bg-white text-center d-flex justify-space-between">
+
+                            <div className="project-details">
+                                <h3 className="project-title">Shopus</h3>
+                                <ul>
+                                    <li>HTML</li>
+                                    <li>CSS</li>
+                                    <li>JavaScript</li>
+                                    <a className="primary-btn" target="_blank" href="https://hasmukh7s.github.io/shopus/">Visit App</a>
+                                </ul>
+                            </div>
+                            <a target="_blank" href="https://hasmukh7s.github.io/shopus/" class="screen">
+                                <img className="pro-react" src={lifestore} />
+                            </a>
+
+                        </div>
+
                         {/* <div className="item bg-white text-center d-flex justify-space-between">
 
                             <a target="_blank" href="https://pekskumar.github.io/hasmukh-LoginFlow/" class="screen">
