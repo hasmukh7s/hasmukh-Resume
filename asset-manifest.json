@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hasmukh-Resume/static/css/main.5ce498b7.css",
-    "main.js": "/hasmukh-Resume/static/js/main.fc6eab77.js",
+    "main.css": "/hasmukh-Resume/static/css/main.e4639644.css",
+    "main.js": "/hasmukh-Resume/static/js/main.285674cc.js",
     "static/media/banner-img.jpg": "/hasmukh-Resume/static/media/banner-img.a74284f5c436a3ffbf8d.jpg",
     "static/media/shopus.png": "/hasmukh-Resume/static/media/shopus.d724467776a14539482b.png",
     "static/media/has-website-react.png": "/hasmukh-Resume/static/media/has-website-react.a0d66cf8ef56cc7806dc.png",
@@ -48,13 +48,13 @@
     "static/media/figma.svg": "/hasmukh-Resume/static/media/figma.091c2c593592e5ad1704a8c8e3e63e3d.svg",
     "static/media/mui.svg": "/hasmukh-Resume/static/media/mui.9873a18350271e9221576319270afd3d.svg",
     "index.html": "/hasmukh-Resume/index.html",
-    "static/media/git.svg": "/hasmukh-Resume/static/media/git.fd4ff25d1bab9d4909db4a2f70c8ffa2.svg",
+    "static/media/git.svg": "/hasmukh-Resume/static/media/git.72eccc25b424ff7171966c3a17a1d953.svg",
     "static/media/phone.svg": "/hasmukh-Resume/static/media/phone.04ae4af56da49c6ad94b5c7e5640bd3a.svg",
-    "main.5ce498b7.css.map": "/hasmukh-Resume/static/css/main.5ce498b7.css.map",
-    "main.fc6eab77.js.map": "/hasmukh-Resume/static/js/main.fc6eab77.js.map"
+    "main.e4639644.css.map": "/hasmukh-Resume/static/css/main.e4639644.css.map",
+    "main.285674cc.js.map": "/hasmukh-Resume/static/js/main.285674cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ce498b7.css",
-    "static/js/main.fc6eab77.js"
+    "static/css/main.e4639644.css",
+    "static/js/main.285674cc.js"
   ]
 }
