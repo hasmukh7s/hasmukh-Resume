@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hasmukh-Resume/static/css/main.5ce498b7.css",
-    "main.js": "/hasmukh-Resume/static/js/main.8314c2b3.js",
+    "main.js": "/hasmukh-Resume/static/js/main.fc6eab77.js",
     "static/media/banner-img.jpg": "/hasmukh-Resume/static/media/banner-img.a74284f5c436a3ffbf8d.jpg",
     "static/media/shopus.png": "/hasmukh-Resume/static/media/shopus.d724467776a14539482b.png",
     "static/media/has-website-react.png": "/hasmukh-Resume/static/media/has-website-react.a0d66cf8ef56cc7806dc.png",
@@ -13,6 +13,7 @@
     "static/media/react-signupflow.png": "/hasmukh-Resume/static/media/react-signupflow.18ae5921227e70289892.png",
     "static/media/logo.jpg": "/hasmukh-Resume/static/media/logo.07e7c6c07e28662db2ae.jpg",
     "static/media/weather.png": "/hasmukh-Resume/static/media/weather.dac94991036d720de8ec.png",
+    "static/media/dashbooard.png": "/hasmukh-Resume/static/media/dashbooard.8bc23766d18a0a0784b2.png",
     "static/media/ChatGPT.png": "/hasmukh-Resume/static/media/ChatGPT.bf75d5e7b156bde72e02.png",
     "static/media/mahendra.jpeg": "/hasmukh-Resume/static/media/mahendra.9237aee6257e7153d9c7.jpeg",
     "static/media/browserstore.png": "/hasmukh-Resume/static/media/browserstore.060b880fe2251c62c094.png",
@@ -50,10 +51,10 @@
     "static/media/git.svg": "/hasmukh-Resume/static/media/git.fd4ff25d1bab9d4909db4a2f70c8ffa2.svg",
     "static/media/phone.svg": "/hasmukh-Resume/static/media/phone.04ae4af56da49c6ad94b5c7e5640bd3a.svg",
     "main.5ce498b7.css.map": "/hasmukh-Resume/static/css/main.5ce498b7.css.map",
-    "main.8314c2b3.js.map": "/hasmukh-Resume/static/js/main.8314c2b3.js.map"
+    "main.fc6eab77.js.map": "/hasmukh-Resume/static/js/main.fc6eab77.js.map"
   },
   "entrypoints": [
     "static/css/main.5ce498b7.css",
-    "static/js/main.8314c2b3.js"
+    "static/js/main.fc6eab77.js"
   ]
 }
