@@ -1,12 +1,10 @@
 {
   "files": {
-    "main.css": "/hasmukh-Resume/static/css/main.e4639644.css",
-    "main.js": "/hasmukh-Resume/static/js/main.285674cc.js",
-    "static/media/banner-img.jpg": "/hasmukh-Resume/static/media/banner-img.a74284f5c436a3ffbf8d.jpg",
+    "main.css": "/hasmukh-Resume/static/css/main.62f52aac.css",
+    "main.js": "/hasmukh-Resume/static/js/main.72c973b1.js",
     "static/media/shopus.png": "/hasmukh-Resume/static/media/shopus.d724467776a14539482b.png",
     "static/media/has-website-react.png": "/hasmukh-Resume/static/media/has-website-react.a0d66cf8ef56cc7806dc.png",
     "static/media/call-video.mp4": "/hasmukh-Resume/static/media/call-video.1cfc00831c2b51594883.mp4",
-    "static/media/sky-bg.jpg": "/hasmukh-Resume/static/media/sky-bg.74d50d7bf3da31cdb984.jpg",
     "static/media/life-store.png": "/hasmukh-Resume/static/media/life-store.3fe016f9432e725ac9e6.png",
     "static/media/has-website.png": "/hasmukh-Resume/static/media/has-website.eabc836bfee652f3369f.png",
     "static/media/contact-banner.png": "/hasmukh-Resume/static/media/contact-banner.104fca9fe6a24d1672e8.png",
@@ -16,6 +14,7 @@
     "static/media/dashbooard.png": "/hasmukh-Resume/static/media/dashbooard.8bc23766d18a0a0784b2.png",
     "static/media/ChatGPT.png": "/hasmukh-Resume/static/media/ChatGPT.bf75d5e7b156bde72e02.png",
     "static/media/mahendra.jpeg": "/hasmukh-Resume/static/media/mahendra.9237aee6257e7153d9c7.jpeg",
+    "static/media/banner-img.png": "/hasmukh-Resume/static/media/banner-img.da70928085f6ad92b9a3.png",
     "static/media/browserstore.png": "/hasmukh-Resume/static/media/browserstore.060b880fe2251c62c094.png",
     "static/media/project-mnmt.png": "/hasmukh-Resume/static/media/project-mnmt.5167ea3b19bce49fe509.png",
     "static/media/process.png": "/hasmukh-Resume/static/media/process.dd1ae1085daf786689ac.png",
@@ -50,11 +49,11 @@
     "index.html": "/hasmukh-Resume/index.html",
     "static/media/git.svg": "/hasmukh-Resume/static/media/git.72eccc25b424ff7171966c3a17a1d953.svg",
     "static/media/phone.svg": "/hasmukh-Resume/static/media/phone.04ae4af56da49c6ad94b5c7e5640bd3a.svg",
-    "main.e4639644.css.map": "/hasmukh-Resume/static/css/main.e4639644.css.map",
-    "main.285674cc.js.map": "/hasmukh-Resume/static/js/main.285674cc.js.map"
+    "main.62f52aac.css.map": "/hasmukh-Resume/static/css/main.62f52aac.css.map",
+    "main.72c973b1.js.map": "/hasmukh-Resume/static/js/main.72c973b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4639644.css",
-    "static/js/main.285674cc.js"
+    "static/css/main.62f52aac.css",
+    "static/js/main.72c973b1.js"
   ]
 }
